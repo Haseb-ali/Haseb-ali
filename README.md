@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/q1kJKJy/myphoto.png" width="6000">
 
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h1 align="center">A passionate full stack developer from Pakistan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseb-ali&label=Profile%20views&color=0e75b6&style=flat" alt="haseb-ali" /> </p>
 
 <h3 align="left">Connect with me:</h3>
