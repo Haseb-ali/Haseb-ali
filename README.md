@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/q1kJKJy/myphoto.png" width="6000">
 
-<h1 align="center">A passionate full stack developer from Pakistan</h1>
+<h1 align="center">Software Engineer</h1>
 <p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
