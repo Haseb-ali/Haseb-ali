@@ -1,6 +1,10 @@
 
 # Who am i 🤔
-Hi, My name is Haseeb and I am a software engineer with 3+ years of experience in full-stack development. I have hands-on experience in web development, machine learning data science.
+Dedicated and efficient full stack developer with 3+ years experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies.Developed full-stack web applications which processed, analyzed, and rendered data visually.Liaised with back end developers, front end developers, quality assurance testers, and CTO as needed.Managed time-sensitive updates, including content changes and database upgrades.Planned, wrote, and debugged web applications and software with complete accuracy. Seeking to further improve skills as the future full stack developer at Atmospheric Solutions. 
+
+## Website 
+
+[Explore](https://haseb-ali.github.io/haseeb-resume/)
  
 ## Technologies 🔥
 
