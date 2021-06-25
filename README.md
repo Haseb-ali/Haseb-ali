@@ -58,6 +58,9 @@ Hi, My name is Haseeb and I am a software engineer with 3+ years of experience i
 **Skype:** [haseeb chaudhry](live:.cid.ebf8a2b57bf2482c)
 
 **Likedin:** [haseeb chaudhry](https://www.linkedin.com/in/haseeb-ali-4526321ba/)
+
+**Website:** [Preview](https://haseb-ali.github.io/haseeb-resume/)
+
   
 ## Social 
 [![MIT License](https://img.shields.io/github/followers/haseb-ali?style=social
