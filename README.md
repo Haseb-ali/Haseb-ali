@@ -12,7 +12,7 @@ Full stack dajngo-python web developer || Rest api developer || React & next js 
 
 **Likedin:** [haseeb chaudhry](https://www.linkedin.com/in/haseeb-ali-4526321ba/)
 
-**Website:** [Preview](https://haseb-ali.github.io/haseeb-resume/)
+**Website:** [Preview](haseeb-portflio.herokuapp.com/)
 
   
 ## Social 
