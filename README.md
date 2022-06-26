@@ -4,7 +4,7 @@ Full stack dajngo-python web developer || Rest api developer || React & next js 
 
 ## Website 
 [Explore](https://haseb-ali.github.io/haseeb-resume/)
-## Contact me ?
+## Contact me 
 
 **Email:** [haseb.chaudhry@gmail.com]()
 
