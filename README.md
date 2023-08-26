@@ -1,7 +1,6 @@
 
 # Hey
-Full stack dajngo-python web developer || Rest api developer || React & next js front-end developer 
-
+Scaling minds and code with Python 🐍, Django 🎸, React ⚛️, and AWS ☁️ | Crafting scalable web wonders | Full Stack Dev 🖥️ | Dream it, Code it, Scale it 🚀
 ## Website 
 [Explore](https://haseb-ali.github.io/haseeb-resume/)
 ## Contact me 
