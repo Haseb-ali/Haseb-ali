@@ -1,14 +1,22 @@
-# About Me
-Software Architecture
-## Portfolio Showcase
-[Explore](https://haseebali.me)
-## Contact me 
+# Hi, I'm Haseeb Ali 👋
 
-**Email:** [haseb.chaudhry@gmail.com]()
+### Senior Full-Stack Developer | AI Engineer | Software Architect
 
-**Skype:** [haseeb chaudhry](live:.cid.ebf8a2b57bf2482c)
+I build scalable web applications, AI-powered solutions, and intelligent agentic systems that solve real-world business problems. With 6+ years of experience, I specialize in backend engineering, full-stack development, LLM integrations, and SaaS architecture.
 
-**Likedin:** [haseeb chaudhry](https://www.linkedin.com/in/haseeb-ali-4526321ba/)
+- 🤖 **AI & Agentic Systems:** LangChain, LangGraph, LlamaIndex, RAG, AI Agents
+- 💻 **Backend Development:** Python, Django, FastAPI, REST APIs
+- 🌐 **Frontend Development:** Next.js, React, JavaScript
+- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
+- 🔗 **Integrations:** OpenAI, Gemini, Stripe, Google APIs
+- 🏗️ **Software Architecture:** Scalable SaaS, Microservices, AI Automation
 
-**Website:** [Preview](https://haseebali.me)
+## 🤝 Connect With Me
 
+- **LinkedIn:** [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-4526321ba/)
+- **Email:** [haseb.chaudhry@gmail.com](mailto:haseb.chaudhry@gmail.com)
+- **Skype:** [haseeb chaudhry](skype:live:.cid.ebf8a2b57bf2482c)
+
+---
+
+*Building reliable software, practical AI solutions, and scalable digital products.*
